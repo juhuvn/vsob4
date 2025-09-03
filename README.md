@@ -1,9 +1,10 @@
 # VSOB4: Bioinformatics Course: Metagenome Analysis in One Health Practice From 16S to Shotgun
 September 03rd-06th, 2025, ICISE, Gia Lai, Vietnam
 
-# Program of VSOB4
+# General Information
 
-The program of the VSOB4 can be found here: [Program](./Day1/VSOB4-programme.pdf)
+- The official homepage of the VSOB4 [Link](https://icisequynhon.com/conferences/2025/VSOB-4/index.html)
+- The program of the VSOB4 can be found here: [Program](./Day1/VSOB4-programme.pdf)
 
 
 # Day 1
@@ -23,3 +24,5 @@ TBA
 TBA
 
 # Day 4
+
+TBA
