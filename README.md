@@ -10,8 +10,8 @@ The program of the VSOB4 can be found here: [Program](./Day1/VSOB4-programme.pdf
 
 - Dr. Cuong Nguyen - Introduction to VSOB4 [PDF](./Day1/VSOB4-introduction.pdf)
 - Prof. Dr. Truong Nam Hai - Keynote 1: Introduction to Metagenomics and Applications in Agriculture
-- Dr. Nguyen Thuy Vy - Lecture 1: Metagenomics library preparation
-- Dr. Nguyen Thuy Vy - Keynote 2: Analysis of Gut Microbiome, Structure and Function in Vietnamese Adults
+- Dr. Nguyen Thuy Vy - Lecture 1: Metagenomics library preparation [PDF](./Day1/VSOB4-NTVy-Lec1.pdf)
+- Dr. Nguyen Thuy Vy - Keynote 2: Analysis of Gut Microbiome, Structure and Function in Vietnamese Adults [PDF](./Day1/VSOB4-NTVy-Keynote2.pdf)
 - PhD. Candidate Pham Quang Huy - Lecture 2: Shotgun Metagenomics Analysis [PDF](./Day1/VSOB4-Huy%20Pham%20shotgun%20metagenome.pdf)
 
 # Day 2
