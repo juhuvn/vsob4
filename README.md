@@ -6,6 +6,7 @@ September 03rd-06th, 2025, ICISE, Gia Lai, Vietnam
 - The official homepage of the VSOB4 [Link](https://icisequynhon.com/conferences/2025/VSOB-4/index.html)
 - The program of the VSOB4 can be found here: [Program](./Day1/VSOB4-programme.pdf)
 - Photos [Google Photo Link](https://photos.app.goo.gl/pR6Uqvzu4qVoFSgY9)
+- Galaxy VSOB4 [Link](https://usegalaxy.org.au/join-training/vsob4)
 
 # Day 1
 
