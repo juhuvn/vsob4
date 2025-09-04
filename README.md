@@ -25,6 +25,7 @@ September 03rd-06th, 2025, ICISE, Gia Lai, Vietnam
 
 - Dr. The-Hao Chung - 16S rRNA Amplicon Analysis [PDF](./Day3/VSOB4_16S_lecture.HCT.pdf)
 - File Data [File](./Day3/final_tutorial_material.zip)
+- Link to [RStudio on LOBI@CBAS server](http://vsob4.lobi.vn:8787/). This server will be down within 2 weeks.
 
 # Day 4
 
