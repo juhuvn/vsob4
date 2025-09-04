@@ -19,7 +19,7 @@ September 03rd-06th, 2025, ICISE, Gia Lai, Vietnam
 # Day 2
 
 - PhD. Candidate Pham Quang Huy - Lecture 2: Shotgun Metagenomics Analysis (continue)
-
+- Link to Galaxy Training Material: [Link](https://training.galaxyproject.org/training-material/topics/microbiome/)
 
 # Day 3
 
