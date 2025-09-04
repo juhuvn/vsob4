@@ -4,7 +4,7 @@ September 03rd-06th, 2025, ICISE, Gia Lai, Vietnam
 # General Information
 
 - The official homepage of the VSOB4 [Link](https://icisequynhon.com/conferences/2025/VSOB-4/index.html)
-- The program of the VSOB4 can be found here: [Program](./Day1/VSOB4-programme.pdf)
+- The program of the VSOB4 can be found here: [PDF](./Day1/VSOB4-programme.pdf)
 - Photos [Google Photo Link](https://photos.app.goo.gl/pR6Uqvzu4qVoFSgY9)
 - Galaxy VSOB4 [Link](https://usegalaxy.org.au/join-training/vsob4)
 
@@ -18,11 +18,12 @@ September 03rd-06th, 2025, ICISE, Gia Lai, Vietnam
 
 # Day 2
 
-TBA
+- PhD. Candidate Pham Quang Huy - Lecture 2: Shotgun Metagenomics Analysis (continue)
+
 
 # Day 3
 
-TBA
+- Dr. The-Hao Chung - 16S rRNA Amplicon Analysis [PDF](./Day3/VSOB4_16S_lecture.HCT.pdf)
 
 # Day 4
 
