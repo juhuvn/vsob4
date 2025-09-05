@@ -29,5 +29,5 @@ September 03rd-06th, 2025, ICISE, Gia Lai, Vietnam
 
 # Day 4
 
-- Dr. Tran Thi Thanh Tam - Talk: Identifying fecal microbiota signatures of colorectal cancer in a Vietnamese cohort 
+- Dr. Tran Thi Thanh Tam - Talk: Identifying fecal microbiota signatures of colorectal cancer in a Vietnamese cohort [PDF](./Day4/Nhung_et_al_Front_in_Microbiology_2024.pdf)
 - Dr. Cuong Nguyen - Lecture4: Data Visualization with R [Lecture note (PDF)](./Day4/lecture-note.pdf), [R Markdown (ZIP)](./Day4/lecture-note.zip)
