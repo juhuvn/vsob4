@@ -30,4 +30,5 @@ September 03rd-06th, 2025, ICISE, Gia Lai, Vietnam
 # Day 4
 
 - Dr. Tran Thi Thanh Tam - Talk: Identifying fecal microbiota signatures of colorectal cancer in a Vietnamese cohort [PDF](./Day4/Nhung_et_al_Front_in_Microbiology_2024.pdf)
+- Assoc. Prof. Dr. Nguyen Bao Quoc - Talk: Identification of diet resources of big-eyed bug Geocoris ochropterus (Fieber) (Hemiptera: Geocoridae) by multiplex PCR and shotgun metagenomic approaches [PDF](./Day4/VSOB-4-%20Quoc%20Nguyen.pdf)
 - Dr. Cuong Nguyen - Lecture4: Data Visualization with R [Lecture note (PDF)](./Day4/lecture-note.pdf), [R Markdown (ZIP)](./Day4/lecture-note.zip)
